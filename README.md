@@ -20,7 +20,7 @@ Welcome to the official GitHub repository of **Jotech Solutions**. We specialize
 
 ## 📫 Contact
 - Email: contact@jotechsolutions.com
-- LinkedIn: [Jotech Solutions]((https://www.linkedin.com/company/jotech-ultimate-solution))
+- LinkedIn: [Jotech Solutions](https://www.linkedin.com/company/jotech-ultimate-solution)
 
 ---
 
