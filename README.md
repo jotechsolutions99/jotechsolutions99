@@ -1,16 +1,31 @@
-## Hi there 👋
+# Jotech Solutions 🚀
 
-<!--
-**jotechsolutions99/jotechsolutions99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**IT Consulting & EdTech Solutions**
 
-Here are some ideas to get you started:
+Welcome to the official GitHub repository of **Jotech Solutions**. We specialize in building cutting-edge web applications, IT consulting, and educational technology solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 About Us
+- IT Consulting Services for small and medium businesses
+- EdTech Projects aimed at improving student learning experiences
+
+---
+
+## 🚀 Projects
+- [Jotech Solutions Web Platform](https://github.com/jotechsolutions99/bootStrapped) – Company website and dashboard
+- EdTech Mini Apps – Various learning tools for students
+
+---
+
+## 📫 Contact
+- Email: contact@jotechsolutions.com
+- LinkedIn: [Jotech Solutions]([https://www.linkedin.com/company/jotech-solutions](https://www.linkedin.com/company/jotech-ultimate-solution))
+
+---
+
+## 📌 How to Contribute
+1. Clone the repo
+2. Create a feature branch
+3. Make your changes
+4. Open a Pull Request for review
